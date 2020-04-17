@@ -1,0 +1,43 @@
+body{
+    background-color: blueviolet;
+}
+form{ 
+    border: 1px solid;
+    background-color: blue;
+
+border-radius: 15px;
+    width: 450px;
+    height: 360px;
+    margin-top: 100px;
+    margin-left: 380px;
+    text-align: center
+
+    
+          
+            }
+            input[type="text"],input[type="email"]{
+                width: 350px;
+                height: 30px;
+                background: none; 
+                border-radius: 15px;
+                 
+                color: white;
+                outline: none;
+text-align: center;
+font-size: 16px;
+      
+        }
+        
+        p{
+            color: white;
+        }
+        input[type="button"]{
+            width: 150px;
+    height: 30px;;
+    background-color: chartreuse;
+   color:ivory;
+   margin-left: 136px;
+   margin-top: 20px;
+        }
+           
+        
