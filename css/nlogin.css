@@ -27,7 +27,7 @@ h1{
     text-align: center;
     font-size: 37px;
 }
- button{
+button{
     background-color: rgba(0, 128, 0, 0.808);
     color: white;
     padding:12px 20px ;
@@ -37,7 +37,6 @@ h1{
     border: none;
     width: 93%;
     cursor: pointer;
-    font-weight: bold;
 }
 button:hover{
     opacity: 0.8;
@@ -81,4 +80,3 @@ img{
     margin-left: 6px;
     width: 93%;
   }
-  

@@ -1,0 +1,30 @@
+body{
+    background-color: blue;
+}
+form{
+
+    width: 10px;
+    height: 500px;
+    padding: 40px 25px;
+    text-align: center;
+    color: white;
+    
+
+}
+table,th,td{
+    border: 1px solid white;
+    border-collapse: collapse;
+    
+}
+input[type="submit"],input[type="reset"]{
+    width: 135px;
+    height: 30px;
+    margin: 15px;
+    border-radius: 2px;
+    margin-left: 286px;
+    margin-top: 25px;
+    background-color: white;
+    color: black;
+    text-align:center ;
+}
+
